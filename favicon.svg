@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="95" fill="#fff" stroke="#000" stroke-width="2"/>
+  <text x="100" y="85" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">Service National</text>
+  <text x="100" y="115" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">de Semences</text>
+  <path d="M60,70 C60,70 100,40 140,70" fill="none" stroke="#008000" stroke-width="3"/>
+  <path d="M75,80 L125,80" stroke="#008000" stroke-width="3"/>
+  <path d="M60,130 C60,130 100,100 140,130" fill="none" stroke="#008000" stroke-width="3"/>
+</svg>
